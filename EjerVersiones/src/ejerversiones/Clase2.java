@@ -9,8 +9,7 @@ package ejerversiones;
  *
  * @author dam
  */
-public class Clase1 {
-    private String nombre;
-    private float sueldo;
-    private String apellidos;
+public class Clase2 {
+    private String Empresa;
+    private float ganacias;
 }
